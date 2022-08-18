@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jinchuangtw
 - 👀 I’m interested in Stereo V-SLAM theorem and techniques.
 - 🌱 I’m currently studying in aeronautics and astronautics.
-- 📫 jinchuang1999@gmail.com
+- 📫 Contact: jinchuang1999@gmail.com
+- 🏠 Blog: https://jinchuangtw.github.io/
 
 <!---
 jinchuangtw/jinchuangtw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
